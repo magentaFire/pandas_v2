@@ -77,6 +77,10 @@ button {
   padding: 0 25px;
 }
 
+#parrafo1, #parrafo2 {
+  display: block;
+}
+
 p {
   text-align: justify;
   font-size: 14px;
